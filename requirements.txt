@@ -1,0 +1,5 @@
+torch
+gym-retro
+gym==0.21.0
+opencv-python
+numpy
