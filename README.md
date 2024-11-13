@@ -16,7 +16,7 @@ After training for 50 epochs, with 5000 simulation steps per epoch, the best sco
 Things that can be improved
 * add a reward for time in simulation 
 * add a penalty for standing or moving along routes without points 
-* improve memory updating
+* use another CNN
 
 ## Installation guide
 
